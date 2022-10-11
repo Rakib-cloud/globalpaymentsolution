@@ -4,11 +4,11 @@ import './Header.css';
 const Header = () => {
     return (
         <div >
-        <nav class="navbar navbar-expand-lg navbar-light bg-dark ">
+        <nav class="navbar navbar-expand-lg navbar-light navcolor ">
   <div class="container-fluid">
   <a class="navbar-brand" href="#">
-      <img src="https://i.ibb.co/sFRh0Rk/logo-e.jpg" alt="" width="150" height="24" class="d-inline-block align-text-top"/>
-      DSDPT.COM
+      <img src="https://i.ibb.co/sFRh0Rk/logo-e.jpg" alt="" width="50" height="24" class="d-inline-block align-text-top"/>
+      <span className='text-white fs-4'>DSDPT.COM</span>
     </a>
     <div className='d-flex navmar'>
     <div class="collapse navbar-collapse" id="navbarNav">

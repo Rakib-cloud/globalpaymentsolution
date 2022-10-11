@@ -8,3 +8,19 @@
       height: 600px;
     }
   }
+
+  .buttoncss{
+    height: 35px;
+    width: 150px;
+    background-color:#d63384;
+    
+  }
+  .buttoncss2{
+    height: 35px;
+    width: 150px;
+    border-color: #d63384;
+   
+  }
+  .pink{
+    color: #d63384;
+  }

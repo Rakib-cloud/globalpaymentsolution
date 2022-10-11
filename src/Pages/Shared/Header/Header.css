@@ -2,3 +2,6 @@
     margin-right: 20px;
    
 }
+.navcolor{
+    background-color: linear-gradient(0deg, rgba(9, 9, 9, 0.755), rgba(0, 0, 0, 0.744)) !important;
+}
