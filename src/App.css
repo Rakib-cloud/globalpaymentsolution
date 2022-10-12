@@ -36,3 +36,50 @@
     transform: rotate(360deg);
   }
 }
+
+/* //about page work */
+.about_content p,span{
+  color:white !important;
+}
+
+.about_content {
+  padding: 0 20px;
+}
+
+.banner-button2 {
+  background-image: linear-gradient(to right, #FF512F 0%, #db1528 51%, #FF512F 100%);
+  margin: 10px;
+  padding: 5px 30px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  border-radius: 10px;
+  font-weight: bold;
+  border: none;
+}
+
+.banner-button2:hover {
+  background-position: right center;
+  color: #fff;
+  text-decoration: none;
+}
+
+.heading {
+  position: relative;
+}
+
+h1.section-heading.text-uppercase {
+  position: relative;
+}
+
+span.underline {
+  left: 26%;
+  position: absolute;
+  width: 50%;
+  z-index: 9;
+  height: 3px;
+  background: #DC3545 !important;
+  bottom: 0;
+}
