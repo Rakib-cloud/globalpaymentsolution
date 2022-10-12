@@ -20,10 +20,10 @@ const About = () => {
             .finally(() => setLoading(false));
     }, [])
     return (
-        <div className="pt-high back">
+        <Container className="pt-high">
             <div className="pt-3 text-danger d-flex justify-content-center mb-3">
                 <div className="heading ">
-                    <h1 className='section-heading text-uppercase fs-6 '>About Us</h1>
+                    <h1 className='section-heading text-uppercase fs-6 text-center'>About Us</h1>
                     <span className='underline'></span>
                 </div>
             </div>
@@ -44,7 +44,7 @@ const About = () => {
             </Row> 
             <CertificatModal open={open } setOpen={setOpen} />
             {/* <button onClick={Test}>test</button> */}
-        </div>
+        </Container>
     );
 };
 

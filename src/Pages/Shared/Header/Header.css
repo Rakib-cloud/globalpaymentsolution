@@ -33,11 +33,12 @@
   
   .navx > .navx-header > .navx-title {
     display: inline-block;
-    font-size: 22px;
+    font-size: 16px;
     color: #fff;
     font-weight: 550;
     font-family: Arial, Helvetica, sans-serif;
     padding: 10px 10px 10px 10px;
+    margin-top: 12px;
   }
   
   .navx > .navx-btn {
