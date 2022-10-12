@@ -66,13 +66,11 @@
   text-decoration: none;
 }
 
-.heading {
-  position: relative;
-}
 
-h1.section-heading.text-uppercase {
+/* h1.section-heading.text-uppercase {
   position: relative;
-}
+
+} */
 
 span.underline {
   left: 26%;

@@ -1,15 +1,4 @@
-
-#intro-example {
-    height: 400px;
-  }
-
-  @media (min-width: 992px) {
-    #intro-example {
-      height: 600px;
-    }
-  }
-
-  .buttoncss{
+.buttoncss{
     height: 35px;
     width: 150px;
     background-color:#d63384;
@@ -24,3 +13,13 @@
   .pink{
     color: #d63384 !important;
   }
+
+  .backxx{
+    background-image: url(img.jpg) !important;
+
+ 
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    min-height: 100vh;
+}

@@ -1,9 +1,9 @@
 import React from 'react';
-
+import './Career.css'
 const Career = () => {
     return (
-        <div>
-            <h1 className='text-white'>CAREER</h1>
+        <div className="back">
+            <h6 className='text-white text-center'>CAREER</h6>
         </div>
     );
 };

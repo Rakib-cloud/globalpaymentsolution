@@ -1,3 +1,11 @@
 h1.section-heading.text-uppercase {
     position: relative;
 }
+.back{
+    background-color:#08091B !important;
+}
+
+.heading {
+    position: relative;
+    margin-left: 400px;
+  }
